@@ -45,7 +45,7 @@ Impact:
 
 - [GitHub](https://github.com/sanikajayava/portfolio.github.io/edit/main/README.md)
 - [LinkedIn](https://www.linkedin.com/in/sanika-hukkeri-2654762a0/)
-
+- for code open the file name main.cpp
 ## Portfolio Highlights
 
 ### 🎯 Topic: 
